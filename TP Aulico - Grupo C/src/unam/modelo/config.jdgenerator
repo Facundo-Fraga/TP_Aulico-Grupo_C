@@ -1,0 +1,76 @@
+==== CONFIGS ====		
+{
+    "base_path": "c:\\Users\\agust\\OneDrive\\Escritorio\\Trabajo Aulico -  POO II - Grupo C\\Trabajo Aulico -  POO II - Grupo C\\ProyectoAulico\\src\\unam\\modelo",
+    "out": "c:\\Users\\agust\\OneDrive\\Escritorio\\Trabajo Aulico -  POO II - Grupo C\\Trabajo Aulico -  POO II - Grupo C\\ProyectoAulico\\src\\unam\\modelo\\javadoc",
+    "javadoc_executable": "C:\\Program Files\\Java\\jdk-22\\bin\\javadoc.exe",
+    "exclude": [],
+    "raw_params": ""
+}
+
+==== COMMAND ====
+"C:\Program Files\Java\jdk-22\bin\javadoc.exe" 
+	-sourcepath "c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo" 
+	-d "c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\javadoc" 
+	"c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\Comida.java"
+	"c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\EmpanadaCarne.java"
+	"c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\Ensalada.java"
+	"c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\Pizza.java"
+
+
+==== JAVADOC OUTPUT ====
+Loading source file c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\Comida.java...
+Loading source file c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\EmpanadaCarne.java...
+Loading source file c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\Ensalada.java...
+Loading source file c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\Pizza.java...
+Constructing Javadoc information...
+Creating destination directory: "c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\javadoc\"
+Building index for all the packages and classes...
+Standard Doclet version 22+36-2370
+Building tree for all the packages and classes...
+Generating c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\javadoc\unam\modelo\Comida.html...
+c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\Comida.java:6: warning: no comment
+public abstract class Comida {
+                ^
+c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\Comida.java:6: warning: use of default constructor, which does not provide a comment
+public abstract class Comida {
+                ^
+c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\Comida.java:16: warning: no comment
+    protected void limpiar() {
+                   ^
+c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\Comida.java:24: warning: no comment
+    public final void prepararComida() {
+                      ^
+c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\Comida.java:19: warning: no comment
+    protected void servir() {
+                   ^
+Generating c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\javadoc\unam\modelo\EmpanadaCarne.html...
+c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\EmpanadaCarne.java:5: warning: no comment
+public class EmpanadaCarne extends Comida{
+       ^
+c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\EmpanadaCarne.java:5: warning: use of default constructor, which does not provide a comment
+public class EmpanadaCarne extends Comida{
+       ^
+Generating c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\javadoc\unam\modelo\Ensalada.html...
+c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\Ensalada.java:5: warning: no comment
+public class Ensalada extends Comida{
+       ^
+c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\Ensalada.java:5: warning: use of default constructor, which does not provide a comment
+public class Ensalada extends Comida{
+       ^
+Generating c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\javadoc\unam\modelo\Pizza.html...
+c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\Pizza.java:8: warning: use of default constructor, which does not provide a comment
+public class Pizza extends Comida {
+       ^
+Generating c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\javadoc\unam\modelo\package-summary.html...
+Generating c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\javadoc\unam\modelo\package-tree.html...
+Generating c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\javadoc\overview-tree.html...
+Generating c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\javadoc\allclasses-index.html...
+Building index for all classes...
+Generating c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\javadoc\allpackages-index.html...
+Generating c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\javadoc\index-all.html...
+Generating c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\javadoc\search.html...
+Generating c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\javadoc\index.html...
+Generating c:\Users\agust\OneDrive\Escritorio\Trabajo Aulico -  POO II - Grupo C\Trabajo Aulico -  POO II - Grupo C\ProyectoAulico\src\unam\modelo\javadoc\help-doc.html...
+10 warnings
+
+

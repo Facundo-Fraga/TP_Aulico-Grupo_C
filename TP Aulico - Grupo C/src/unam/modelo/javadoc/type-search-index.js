@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"unam.modelo","l":"Comida"},{"p":"unam.modelo","l":"EmpanadaCarne"},{"p":"unam.modelo","l":"Ensalada"},{"p":"unam.modelo","l":"Pizza"}];updateSearchResults();
