@@ -1,1 +1,0 @@
-# TP_Aulico-Grupo_C
